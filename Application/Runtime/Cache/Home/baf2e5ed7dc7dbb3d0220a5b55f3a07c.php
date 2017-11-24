@@ -1,0 +1,69 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="viewport" content="initial-scale=1.0, 
+
+maximum-scale=1.0, minimum-scale=1.0, user-
+
+scalable=0, width=device-width"/>
+
+
+<title>别告诉她我还想她</title>
+
+
+
+
+<script>
+        function checktext(){
+        var pwd="没有你我一无所有";//ÃÜÂë
+        var inpwd=document.getElementById
+
+("text").value;//»ñÈ¡ÊäÈëµÄ´úÂë
+        if(pwd == inpwd){  //ÅÐ¶ÏÒ»ÏÂÊÇ·ñÒ»Ñù
+            window.location.href="dream1.html";
+    }if(pwd 
+    	!= inpwd){
+        alert('你不知道我的内心，所以你不知道答案。我还是封锁起来吧。')
+    }
+}
+</script>
+
+
+</head>
+
+<body style="background-color: #D1EEEE">
+<br>
+
+<center>
+
+
+<h3>笑着难过自我惩罚</h3> 
+<h3>笑着难过自我惩罚</h3> 
+<h3>想终止这一切挣扎</h3> 
+<h3>狠了心说真心谎话</h3> 
+<h3>别告诉她我还想她</h3>
+<h3>恨总比爱容易放下</h3> 
+<h3>当泪水堵住了胸口</h3>
+<h3>就让沉默代替所有回答</h3> 
+
+ 
+ <h4>(毕竟只是醒着做梦，还是封锁起来吧。)</h4>
+  <br />
+<input type="text" id="text" name="text" 
+
+style="width:200px;height:30px"><br /><br /><br />
+    
+<input name="a" type="submit" value="我的错"  
+
+onclick="checktext();"style="width:80px;height:30px" 
+
+>
+</center>
+<br /><br />
+<br /><br />
+</body>
+
+
+</html>

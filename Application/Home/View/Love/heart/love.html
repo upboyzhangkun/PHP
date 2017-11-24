@@ -1,0 +1,97 @@
+<html>	
+<head>		
+<title>简单爱</title>		
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />		
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+		<!--导库-->		
+<script type="text/javascript" src="jquery/jquery.js" ></script>					
+<!-- 打字机效果-->				
+<script type="text/javascript" src="js/text.js"></script>		<!-- 画爱心-->		
+<script type="text/javascript" src="js/ga.js" async=""></script><script type="text/javascript" src="js/heart.js"></script>			
+</head>	
+
+
+<body ontouchstart="toggleSound()">
+
+<audio autoplay loop preload="auto" id="audio"><!--添加一个ID-->
+  <source src="easylove.mp3" type="audio/mpeg" />
+  您的浏览器不支持音频播放。
+</audio>
+ <script type="text/javascript">
+
+function toggleSound() {
+    var music = document.getElementById("audio");
+                if (music.paused) { 
+        music.play(); 
+                 } 
+          }
+</script>
+
+
+<script type="text/javascript">
+var Arraycolor=new Array("#FFFAF0","#FFF8DC","#FFF0F5","#FFEFDB","#FFEBCD","#FFE4E1","#FFE4C4","#FFE4B5","#FFDEAD",
+    "#FFDAB9","#FFE7BA","#FFD39B","#F0E68C","#EECFA1","#EECBAD","#EEB4B4","#EEA9B8","#EEB4B4","#EECFA1","#FFD39B","#FFDEAD","#FFE4C4","#FFEBCD","#FFF0F5","#FFF8DC");
+var n=0;
+function turncolors(){
+    n++;
+    if (n==(Arraycolor.length-1)) n=0;
+    document.bgColor = Arraycolor[n];
+    setTimeout("turncolors()",3000);
+}
+turncolors();
+</script>
+
+
+
+
+
+
+
+
+	
+    <div id="header" style="opacity:0.85">		
+    </div>		<!-- #myContent -->		
+    <div id="myContent"></div>		
+    <div id="contentToWrite" style="display:none">	
+说不上为什么我变得很主动<br>
+
+若爱上一个人什么都会值得去做<br>
+
+我想大声宣布对你依依不舍<br>
+
+连隔壁邻居都猜到我现在的感受<br>
+
+河边的风在吹着头发飘动<br>
+
+牵着你的手一阵莫名感动<br>
+...<br>
+
+我想就这样牵着你的手不放开<br>
+
+爱可不可以简简单单没有伤害<br>
+
+你靠着我的肩膀<br>
+
+你在我胸口睡着<br>
+
+像这样的生活我爱你你爱我<br>
+
+
+    </div>		
+    <script type="text/javascript">			
+    writeContent(true);		
+    </script>		
+    		
+    		  		<!-- #bg -->		
+    <div id="bg">			
+    <canvas id="garden">
+    	<c style="color: #FFF; text-shadow:2px 3px 3px #222; font-family:Microsoft YaHei; font-size:50px" >
+        </c></canvas>		
+    </div>			
+    </div>		<!-- #footer-->		
+    <div id="footer">			
+    	(＾－＾)
+   </div>	
+    
+</body>
+</html>

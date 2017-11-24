@@ -1,0 +1,87 @@
+[ 2017-11-24T12:36:11+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/index
+ERR: 无法加载控制器:Love
+
+[ 2017-11-24T12:36:35+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:36:35+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/js/text.js
+ERR: 非法操作:js
+
+[ 2017-11-24T12:36:35+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/kklove.mp3
+ERR: 非法操作:kklove.mp3
+
+[ 2017-11-24T12:36:46+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/js/text.js
+ERR: 非法操作:js
+
+[ 2017-11-24T12:36:46+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:36:46+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/kklove.mp3
+ERR: 非法操作:kklove.mp3
+
+[ 2017-11-24T12:36:49+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:36:52+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/js/text.js
+ERR: 非法操作:js
+
+[ 2017-11-24T12:36:52+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:36:52+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/kklove.mp3
+ERR: 非法操作:kklove.mp3
+
+[ 2017-11-24T12:36:54+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:36:56+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/js/text.js
+ERR: 非法操作:js
+
+[ 2017-11-24T12:36:56+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:36:56+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/kklove.mp3
+ERR: 非法操作:kklove.mp3
+
+[ 2017-11-24T12:38:36+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T12:38:36+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/js/text.js
+ERR: 非法操作:js
+
+[ 2017-11-24T12:38:36+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/kklove.mp3
+ERR: 非法操作:kklove.mp3
+
+[ 2017-11-24T13:00:53+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/js/text.js
+ERR: 非法操作:js
+
+[ 2017-11-24T13:00:53+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/css/style.css
+ERR: 非法操作:css
+
+[ 2017-11-24T13:00:53+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Love/kklove.mp3
+ERR: 非法操作:kklove.mp3
+
+[ 2017-11-24T13:40:24+08:00 ] 127.0.0.1 /zhangkunPHP/index.php
+ERR: Think\Model:addData方法不存在！
+
+[ 2017-11-24T13:41:16+08:00 ] 127.0.0.1 /zhangkunPHP/index.php
+ERR: Think\Model:addData方法不存在！
+
+[ 2017-11-24T13:42:33+08:00 ] 127.0.0.1 /zhangkunPHP/index.php
+ERR: Think\Model:addData方法不存在！
+
+[ 2017-11-24T14:08:07+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Index/index.php/Admin/Public/login
+ERR: 非法操作:index.php
+
+[ 2017-11-24T14:08:11+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Index/index.php/Admin/Public/login
+ERR: 非法操作:index.php
+
+[ 2017-11-24T14:13:09+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Index/index.php/Admin/Public/login
+ERR: 非法操作:index.php
+
+[ 2017-11-24T14:24:44+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Index/index.php/Admin/Public/login
+ERR: 非法操作:index.php
+
+[ 2017-11-24T14:27:25+08:00 ] 127.0.0.1 /zhangkunPHP/index.php/Home/Index/index.php/Admin/Public/login
+ERR: 非法操作:index.php
+
